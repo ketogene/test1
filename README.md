@@ -28,3 +28,7 @@ The overall aim, of-course, is to become familiar with git/github
 And maybe then start to use git/github in my own projects going forward.
 (for example, for academic work)
 
+Good progress here.  But how to verify that the SSH keys at both ends are 
+actually being used?
+
+
