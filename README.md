@@ -9,3 +9,7 @@ The idea is to:
 	=> (E) move to a new folder and pull the remote copy
 
 The overall aim, of-course, is to become familiar with git/github
+
+And maybe then start to use git/github in my own projects going forward.
+(for example, for academic work)
+
